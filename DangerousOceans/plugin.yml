@@ -1,0 +1,9 @@
+name: DangerousOceans
+version: 0.7
+main: me.kiroscorner.dangerousoceans.DangerousOceansMain
+author: Kiro47
+description: Adds a small bit of lethality to the oceans.
+commands:
+  dango:
+    description: Primary command for handling the plugin
+    usage: /<command>

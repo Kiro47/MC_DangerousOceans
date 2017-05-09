@@ -1,0 +1,6 @@
+### Percent Chance that a squid spawn can be replaced with a guardian spawn
+Squid_Override_Chance: 50
+### Can the guardian replacement allowed to be an Elder Guardian?
+Squid_Override_Can_Be_Elder: true
+### If above is true, this rate sets the percent chance that it can be an elder guardian
+Guardian_Replacement_Is_Elder: 25
